@@ -1,3 +1,7 @@
+# webpack-plugin-serve-webpack5
+
+webpack-plugin-serve兼容webpack5。
+
 [tests]: 	https://img.shields.io/circleci/project/github/shellscape/webpack-plugin-serve.svg
 [tests-url]: https://circleci.com/gh/shellscape/webpack-plugin-serve
 
@@ -49,7 +53,7 @@ For those interested in direct comparisons, please see the [Feature Grid](./.git
 Using npm:
 
 ```console
-npm install webpack-nano webpack-plugin-serve --save-dev
+npm install webpack-plugin-serve-webpack5 --save-dev
 ```
 
 _Note: We recommend using [webpack-nano](https://github.com/shellscape/webpack-nano), a very tiny, very clean webpack CLI._

@@ -1,12 +1,12 @@
 {
-  "name": "webpack-plugin-serve",
+  "name": "webpack-plugin-serve-webpack5",
   "version": "1.2.0",
   "description": "A Development Server in a Webpack Plugin",
   "license": "MPL-2.0",
-  "repository": "shellscape/webpack-plugin-serve",
-  "author": "shellscape",
-  "homepage": "https://github.com/shellscape/webpack-plugin-serve",
-  "bugs": "https://github.com/shellscape/webpack-plugin-serve/issues",
+  "repository": "331000738/webpack-plugin-serve-webpack5",
+  "author": "331000738",
+  "homepage": "https://github.com/331000738/webpack-plugin-serve-webpack5",
+  "bugs": "https://github.com/331000738/webpack-plugin-serve-webpack5/issues",
   "bin": "",
   "main": "lib/index.js",
   "engines": {
